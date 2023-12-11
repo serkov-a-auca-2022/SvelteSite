@@ -23,7 +23,7 @@
         <a class="menu-item" href="#designer">Designer</a>
         <a class="menu-item" href="#location">Production</a>
         <a class="menu-item" href="#owners">Owners</a>
-        <a class="menu-item" href="goals.txt">USP</a>
+        <a class="menu-item" href="USP">USP</a>
       </div>
       </div>
     <div id="Title" class="title">
