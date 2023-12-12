@@ -10,7 +10,7 @@
 <body>
   <header>
     <div id="logo">
-        <img class="LogoPorsche" src="img/PorscheLogo.jpg" height="50px" alt="Porsche Logo">
+        <img class="LogoPorsche" src="PorscheLogo.jpg" height="50px" alt="Porsche Logo">
     </div>
     <div class="burger-menu" onclick="toggleMenu()">
       <div></div>
@@ -43,8 +43,8 @@
     </section>
 
     <section class="image-section">
-      <img src="img/Porsche911S.jpg" alt="Porsche 911 is one of the most beautiful cars in the world!" width="450" height="auto" />
-      <img src="img/porsche911TURBOS.jpg" alt="Porsche 911 is one of the most beautiful cars in the world!" width="450" height="auto" />
+      <img src="Porsche911S.jpg" alt="Porsche 911 is one of the most beautiful cars in the world!" width="450" height="auto" />
+      <img src="porsche911TURBOS.jpg" alt="Porsche 911 is one of the most beautiful cars in the world!" width="450" height="auto" />
     </section>
 
     <section class="choice-section">
@@ -56,13 +56,13 @@
             <h3>Style</h3>
             <p>Porsche's style represents the beauty of German cars. Each element is perfectly matched for the exact combination of style and elegance. The development of the design of this machine has been going on for more than 60 years.</p>
           </div>
-          <img src="img/PorscheStyle.jpg" alt="Porsche Style">
+          <img src="PorscheStyle.jpg" alt="Porsche Style">
         </div>
       </div>
 
       <div class="choice reverse">
         <div class="choice-item" id="reversed">
-          <img src="img/PorscheStatus.jpg" alt="Porsche Status">
+          <img src="PorscheStatus.jpg" alt="Porsche Status">
           <div class="choice-content">
             <h3>Status</h3>
             <p>Driving a Porsche comes with a unique status and lifestyle. Unusual, but at the same time simple design, gives the owner of this car seriousness and self-confidence.</p>
@@ -76,7 +76,7 @@
             <h3>Dynamic</h3>
             <p>Experience incredible speed and performance with Porsche. 0-100 km/h in just 2.6 seconds. Let people spend millions of dollars on Bugatti, but Bugatti owners will never know what a real start is. Porsche is ready to compete with the fastest cars in the world for its modest price.</p>
           </div>
-          <img src="img/PorscheDynamic.jpg" alt="Porsche Dynamic">
+          <img src="PorscheDynamic.jpg" alt="Porsche Dynamic">
         </div>
       </div>      
     </section>
@@ -84,7 +84,7 @@
     <section id="designer" class="designer-section"> 
       <h2> Who designed the Porsche 911?</h2>
       <p class="design"> The first-ever Porsche 911 was designed by F.A. Porsche – son of the founder of the company, Ferry Porsche – and his team. The original 911 had an air-cooled flat-six engine instead of the four-cylinder boxer engine of the 356. It developed 130PS, could accelerate from 0-100km/h in 9.1 seconds and had a top speed of 210km/h. These were hugely impressive figures for a production sportscar at the time.</p>
-      <img src="img/First911.jpg" alt="It was the first model of this legendary car!">
+      <img src="First911.jpg" alt="It was the first model of this legendary car!">
       <p class="design"> Many great Porsche designers have been involved in updating and evolving the 911 over the decades. They include such legendary figures as Anatole Lapine, who designed the G series, the successor to the original 911, and Harm Lagaay. This Dutchman was chief designer at Porsche from 1989 to 2004 and was the man who, among many other highlights, introduced the much talked about ‘fried egg’ headlights on the 911 (type 996). And, since 2004, it's been Michael Mauer who has overseen the design of the 911 in his role as Head of Style Porsche.</p>
       <p class="design"> These days you can choose a Porsche 911 to fit a wide range of lifestyles, like the new 911 Dakar, the first standard off-road model in the series, or the fastest production car in the current 911 line-up, the 911 Turbo S. Or, as Ferry Porsche once famously said, “The 911 is the only car that you can drive from an African safari to Le Mans, then to the theatre and onto the streets of New York.”</p>  
       <a class="Home" href="#Title">Home</a>
@@ -93,20 +93,20 @@
     <section id="location" class="location-section"> 
       <h5> Where is the Porsche 911 built?</h5>
       <p class="design">The Porsche 911 is only built at Zuffenhausen, Germany, the headquarters of Dr. Ing. h.c. F. Porsche AG. It’s exactly the same factory complex, in fact, where the first-ever 911 rolled off the line back when full-scale production began in 1964, a year after its Frankfurt International Motor Show launch. Every new 911 that has ever been built since has been made at Zuffenhausen.</p>
-      <img src="img/PorscheProducted.jpg" alt="The Porsche 911 is only built at Zuffenhausen">
+      <img src="PorscheProducted.jpg" alt="The Porsche 911 is only built at Zuffenhausen">
       <p><a class="Home" href="#Title">Home</a></p>
     </section>
 
     <section class="image-text-section">
       <div class="image-text-block">
-        <img src="img/logotype.jpg" alt="Porsche logotype" width="350" height="100%">
+        <img src="logotype.jpg" alt="Porsche logotype" width="350" height="100%">
         <div class="text-block">
           <h3>Logotype</h3>
           <p>The horse represents strength, the red and black stripes on either side are reflective of the traditional crest colors of Württemberg-Hohenzollern.</p>
         </div>
       </div>
       <div class="image-text-block">
-        <img src="img/porschelogo2.jpg" alt="Porsche Logotype" width="350" height="100%">
+        <img src="porschelogo2.jpg" alt="Porsche Logotype" width="350" height="100%">
         <div class="text-block">
           <h3>History</h3>
           <p>For the design of the Porsche logo, Franz drew inspiration from Stuttgart's city seal, which features a rearing horse, and incorporated this into the center of the shield shape.</p>
@@ -117,7 +117,7 @@
     <section id="owners" class="owners-section"> 
       <h6> Who are famous Porsche 911 owners?</h6>
       <p class="design">Many of the biggest names in music, sport, film, and television have owned a Porsche 911. Famous people to own a Porsche 911 include rapper Eminem, model Kendall Jenner, footballer David Beckham, fashion designer Ralph Lauren, pop star Harry Styles, and actor, racing driver, and Porsche brand ambassador, Patrick Dempsey.
-        <img src="img/PorscheFamousOwners.jpg" alt="Porsche famous owners">
+        <img src="PorscheFamousOwners.jpg" alt="Porsche famous owners">
         <p class="design">One of the most famous personal Porsche collections belongs to comedian and actor Jerry Seinfeld, who owns one of the biggest and most impressive Porsche line-ups – including several 911 sports cars – in the world. He admits that the day he first bought a 911 (20 January 1988) will be etched on his memory for life. Oh, he bought a black 911 Carrera, by the way.</p>
         <p><a class="Home" href="#Title">Home</a></p>
     </section>
