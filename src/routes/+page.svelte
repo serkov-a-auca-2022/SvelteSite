@@ -334,7 +334,7 @@ body {
   }
   
   .hero {
-    background: url("Mysite/img/backgroundImage.jpg") no-repeat center center fixed;
+    background: url("backgroundImage.jpg") no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
